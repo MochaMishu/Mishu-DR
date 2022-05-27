@@ -4742,7 +4742,7 @@ let US3 = shuffle([raja, manila, alexis, yara, carmen, shangelas3, delta, stacy,
 let alisa = new Queen("Alisa Summers", 4, 4, 5, 2, 3, 5, 4, 3, 4, 3, 1, "Alisa", "Alisa", "US4", false);
 let chad = new Queen("Chad Michaels", 11, 10, 8, 9, 12, 10, 8, 11, 9, 4, 0, "Chad", "Chad", "US4", false);
 let dida = new Queen("Dida Ritz", 8, 7, 8, 5, 7, 7, 12, 9, 11, 4, 1, "Dida", "Dida", "US4", false);
-let jiggly = new Queen("Jiggly Caliente", 4, 6, 9, 4, 4, 7, 10, 12, 3, 2, "Jiggly", "Jiggly", "US4", false);
+let jiggly = new Queen("Jiggly Caliente", 8, 6, 6, 6, 1, 6, 9, 10, 8, 3, 2, "Jiggly", "Jiggly", "US4", false);
 let kenya = new Queen("Kenya Michaels", 9, 6, 6, 6, 8, 7, 8, 10, 13, 4, 1, "Kenya", "Kenya", "US4", false );
 let lashauwn = new Queen("Lashauwn Beyond", 4, 4, 6, 11, 8, 7, 7, 6, 7, 3, 2, "Lashauwn", "Lashauwn", "US4", false);
 let latrice = new Queen("Latrice Royale", 11, 8, 9, 8, 7, 9, 13, 12, 15, 5, 0, "Latrice", "Latrice", "US4", false);
@@ -4833,6 +4833,19 @@ let orion = new Queen("Orion Story", 7, 7, 8, 7, 10, 10, 11, 8, 6, 4, 2, "Orion"
 let willow = new Queen("Willow Pill", 12, 13, 11, 9, 14, 13, 12, 12, 14, 5, 1, "Willow", "Willow", "US14", false);
 
 let US14 = shuffle([alyssah, angeria, bosco, daya, deja, jasminek, jorgeous, junej, kerri, kornbread, camden, maddym, orion, willow]);
+
+let baga = new Queen("Baga Cipz", 12, 12, 12, 6, 6, 5, 5, 13, 13, 4, 2, "Baga", "Baga", "UK1", false);
+let blu = new Queen("Blu Hydrangea", 11, 10, 13, 9, 10, 12, 9, 10, 15, 4, 3, "Blu", "Blu", "UK1", false);
+let cheryl = new Queen("Cheryl Hole", 8, 9, 9, 10, 6, 6, 11, 10, 13, 4, 1, "Cheryl", "Cheryl", "UK1", false);
+let crystal = new Queen("Crystal", 7, 7, 6, 6, 10, 9, 9, 9, 8, 4, 2, "Crystal", "Crystal", "UK1", false);
+let divina = new Queen("Divina De Campo", 14, 13, 10, 10, 11, 12, 9, 11, 10, 4, 1, "Divina", "Divina", "UK1", false);
+let gothy = new Queen("Gothy Kendoll", 5, 3, 5, 2, 5, 6, 1, 8, 6, 4, 1, "Gothy", "Gothy", "UK1", false);
+let scaredy = new Queen("Scardey Kat", 5, 6, 6, 5, 6, 7, 4, 9, 8, 4, 1, "Scaredy", "Scaredy", "UK1", false);
+let sumting = new Queen("Sum Ting Wong", 7, 6, 7, 6, 9, 10, 6, 9, 10, 4, 1, "Sumting", "Sumting", "UK1", false);
+let viv = new Queen("The Vivienne", 14, 12, 11, 8, 12, 12, 9, 10, 9, 3, 2, "Viv", "Viv", "UK1", false);
+let vinegar = new Queen("Vinegar Strokes", 8, 7, 8, 7, 3, 4, 5, 6, 10, 4, 1, "Vinegar", "Vinegar", "UK1", false);
+
+let UK1 = shuffle([baga, blu, cheryl, crystal, divina, gothy, scaredy, sumting, viv, vinegar])
 
 let icesis = new Queen("Icesis Couture", 8, 9, 10, 11, 12, 14, 12, 10, 8, 4, 0, "Icesis", "Icesis", "CA2", false);
 let kendall = new Queen("Kendall Gender", 7, 9, 10, 8, 6, 10, 14, 10, 11, 4, 1, "Kendall", "Kendall", "CA2", false);
