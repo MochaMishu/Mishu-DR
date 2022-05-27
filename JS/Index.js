@@ -4754,6 +4754,23 @@ let willam = new Queen("Willam", 10, 8, 7, 10, 10, 9, 8, 15, 11, 2, 4, "Willam",
 
 let US4 = shuffle([alisa, chad, dida, jiggly, kenya, lashauwn, latrice, madame, milan, phiphi, princess, willam])
 
+let alaska = new Queen("Alaska", 15, 14, 7, 8, 14, 10, 11, 14, 13, 4, 2, "Alaska", "Alaska", "US5", false);
+let alyssa = new Queen("Alyssa Edwards", 4, 6, 15, 6, 10, 9, 12, 11, 11, 3, 3, "Alyssa", "Alyssa", "US5", false);
+let coco = new Queen("Coco Montrese", 10, 10, 11, 9, 7, 9, 15, 9, 9, 4, 2, "Coco", "Coco", "US5", false);
+let detox = new Queen("Detox", 10, 9, 9, 9, 8, 12, 11, 7, 8, 4, 1, "Detox", "Detox", "US5", false);
+let honey = new Queen("Honey Mahogany", 10, 3, 3, 6, 6, 8, 4, 3, 5, 3, 3, "Honey", "Honey", "US5", false);
+let ivy = new Queen("Ivy Winters", 11, 4, 8, 12, 7, 10, 7, 11, 12, 5, 0, "Ivy", "Ivy", "US5", false);
+let jadejolie = new Queen("Jade Jolie", 5, 7, 8, 7, 8, 7, 8, 6, 8, 4, 2, "JadeJ", "JadeJ", "US5", false);
+let jinkx = new Queen("Jinkx Monsoon", 15, 14, 9, 8, 15, 10, 11, 10, 15, 4, 1, "Jinkx", "Jinkx", "US5", false);
+let lineysha = new Queen("Lineysha Sparx", 10, 4, 7, 11, 5, 9, 8, 6, 8, 4, 0, "Lineysha", "Lineysha", "US5", false);
+let monica = new Queen("Monica Beverly Hillz", 4, 4, 6, 6, 3, 8, 8, 5, 6, 4, 1, "Monica", "Monica", "US5", false);
+let penny = new Queen("Penny Tration", 4, 5, 4, 5, 5, 5, 4, 5, 4, 4, 1, "Penny", "Penny", "US5", false);
+let roxxxy = new Queen("Roxxxy Andrews", 7, 4, 7, 11, 8, 10, 12, 11, 8, 3, 4, "Roxxxy", "Roxxxy", "US5", false);
+let serena = new Queen("Serena ChaCha", 3, 3, 7, 4, 5, 5, 8, 5, 5, 1, 5, "Serena", "Serena", "US5", false);
+let vivienne = new Queen("Vivienne Pinay", 7, 3, 4, 5, 3, 6, 4, 1, 1, 3, 3, "Vivienne", "Vivienne", "US5", false);
+
+let US5 = shuffle([alaska, alyssa, coco, detox, honey, ivy, jadejolie, jinkx, lineysha, monica, penny, roxxxy, serena, vivienne])
+
 let adore = new Queen("Adore Delano", 9, 11, 9, 6, 9, 8, 11, 12, 12, 4, 1, "Adore", "Adore", "US6", false);
 let april = new Queen("April Carrión", 5, 5, 6, 9, 5, 9, 8, 6, 10, 5, 0, "April", "April", "US6", false);
 let bendela = new Queen("BenDeLaCreme", 12, 12, 11, 10, 15, 10, 9, 13, 13, 5, 0, "Ben", "Ben", "US6", false);
