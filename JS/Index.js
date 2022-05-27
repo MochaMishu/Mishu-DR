@@ -4704,7 +4704,7 @@ let ninas1 = new Queen("Nina Flowers", 8, 10, 11, 7, 12, 14, 8, 15, 10, 4, 1, "N
 let onginas1 = new Queen("Ongina", 12, 10, 11, 10, 12, 8, 6, 15, 13, 5, 0, "Ongina", "Ongina", "US1", false);
 let rebecca = new Queen("Rebecca Glasscock", 8, 12, 9, 11, 5, 8, 8, 7, 10, 2, 3, "Rebecca", "Rebecca", "US1", false);
 let shannels1 = new Queen("Shannel", 8, 9, 7, 11, 10, 12, 8, 10, 15, 2, 2, "Shannel", "Shannel", "US1", false);
-let tammies1 = new Queen("Tammie Brown", 8, 9, 14, 5, 6, 8, 6, 14, 15, 4, 0, "TammieBrown", "Tammie", "US1", false);
+let tammies1 = new Queen("Tammie Brown", 8, 9, 14, 5, 6, 8, 6, 14, 15, 4, 0, "Tammie", "Tammie", "US1", false);
 let victoriap = new Queen("Victoria Porkchop Parker", 8, 9, 10, 7, 4, 8, 6, 10, 12, 4, 1, "Victoria", "Victoria", "US1", false);
 
 let US1 = shuffle([akashia, bebes1, jades, ninas1, onginas1, rebecca, shannels1, tammies1, victoriap]);
