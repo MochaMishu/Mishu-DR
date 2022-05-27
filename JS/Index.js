@@ -4847,6 +4847,21 @@ let vinegar = new Queen("Vinegar Strokes", 8, 7, 8, 7, 3, 4, 5, 6, 10, 4, 1, "Vi
 
 let UK1 = shuffle([baga, blu, cheryl, crystal, divina, gothy, scaredy, sumting, viv, vinegar])
 
+let awhora = new Queen("a'Whora", 8, 8, 7, 10, 10, 12, 9, 10, 10, 3, 2, "Awhora", "Awhora", "UK2", false);
+let asttina = new Queen("Asttina Mandella", 7, 6, 7, 10, 9, 8, 9, 8, 7, 4, 1, "Asttina", "Asttina", "UK2", false);
+let bimini = new Queen("Bimini", 10, 11, 10, 11, 12, 11, 13, 10, 14, 4, 1, "Bimini", "Bimini", "UK2", false);
+let cherry = new Queen("Cherry Valentine", 7, 6, 6, 7, 9, 11, 6, 8, 8, 4, 1, "Cherry", "Cherry", "UK2", false);
+let ellie = new Queen("Ellie Diamond", 9, 9, 7, 10, 11, 10, 10, 9, 9, 4, 1, "Ellie", "Ellie", "UK2", false);
+let ginny = new Queen("Ginny Lemon", 6, 6, 8, 2, 2, 5, 1, 15, 11, 4, 1, "Ginny", "Ginny", "UK2", false);
+let joe = new Queen("Joe Black", 10, 8, 6, 2, 9, 12, 4, 13, 11, 4, 1, "Joe", "Joe", "UK2", false);
+let lawrence = new Queen("Lawrence Chaney", 12, 11, 13, 7, 13, 12, 10, 14, 14, 4, 1, "Lawrence", "Lawrence", "UK2", false);
+let sister = new Queen("Sister Sister", 7, 7, 6, 8, 7, 7, 8, 9, 8, 4, 1, "Sister", "Sister", "UK2", false);
+let tayce = new Queen("Tayce", 10, 9, 9, 13, 9, 10, 15, 10, 11, 4, 1, "Tayce", "Tayce", "UK2", false);
+let tia = new Queen("Tia Kofi", 9, 11, 13, 9, 3, 5, 12, 11, 15, 4, 2, "Tia", "Tia", "UK2", false);
+let veronica = new Queen("Veronica Green", 9, 8, 8, 9, 6, 6, 6, 7, 7, 5, 1, "Veronica", "Veronica", "UK2", false);
+
+let UK2 = shuffle([awhora, asttina, bimini, cherry, ellie, ginny, joe, lawrence, sister, tayce, tia, veronica])
+
 let icesis = new Queen("Icesis Couture", 8, 9, 10, 11, 12, 14, 12, 10, 8, 4, 0, "Icesis", "Icesis", "CA2", false);
 let kendall = new Queen("Kendall Gender", 7, 9, 10, 8, 6, 10, 14, 10, 11, 4, 1, "Kendall", "Kendall", "CA2", false);
 let eve = new Queen("Eve 6000", 10, 8, 10, 4, 6, 12, 6, 15, 15, 4, 2, "Eve", "Eve", "CA2", false);
