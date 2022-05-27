@@ -4834,7 +4834,7 @@ let willow = new Queen("Willow Pill", 12, 13, 11, 9, 14, 13, 12, 12, 14, 5, 1, "
 
 let US14 = shuffle([alyssah, angeria, bosco, daya, deja, jasminek, jorgeous, junej, kerri, kornbread, camden, maddym, orion, willow]);
 
-let baga = new Queen("Baga Cipz", 12, 12, 12, 6, 6, 5, 5, 13, 13, 4, 2, "Baga", "Baga", "UK1", false);
+let baga = new Queen("Baga Chipz", 12, 12, 12, 6, 6, 5, 5, 13, 13, 4, 2, "Baga", "Baga", "UK1", false);
 let blu = new Queen("Blu Hydrangea", 11, 10, 13, 9, 10, 12, 9, 10, 15, 4, 3, "Blu", "Blu", "UK1", false);
 let cheryl = new Queen("Cheryl Hole", 8, 9, 9, 10, 6, 6, 11, 10, 13, 4, 1, "Cheryl", "Cheryl", "UK1", false);
 let crystal = new Queen("Crystal", 7, 7, 6, 6, 10, 9, 9, 9, 8, 4, 2, "Crystal", "Crystal", "UK1", false);
@@ -4847,7 +4847,7 @@ let vinegar = new Queen("Vinegar Strokes", 8, 7, 8, 7, 3, 4, 5, 6, 10, 4, 1, "Vi
 
 let UK1 = shuffle([baga, blu, cheryl, crystal, divina, gothy, scaredy, sumting, viv, vinegar])
 
-let awhora = new Queen("A'Whora", 8, 8, 7, 10, 10, 12, 9, 10, 10, 3, 2, "Awhora", "Awhora", "UK2", false);
+let awhora = new Queen("a'Whora", 8, 8, 7, 10, 10, 12, 9, 10, 10, 3, 2, "Awhora", "Awhora", "UK2", false);
 let asttina = new Queen("Asttina Mandella", 7, 6, 7, 10, 9, 8, 9, 8, 7, 4, 1, "Asttina", "Asttina", "UK2", false);
 let bimini = new Queen("Bimini", 10, 11, 10, 11, 12, 11, 13, 10, 14, 4, 1, "Bimini", "Bimini", "UK2", false);
 let cherry = new Queen("Cherry Valentine", 7, 6, 6, 7, 9, 11, 6, 8, 8, 4, 1, "Cherry", "Cherry", "UK2", false);
